@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/goredis (fetch)
+origin	git@github.com:skyportsystems/goredis (push)
+upstream	https://github.com/alphazero/Go-Redis.git (fetch)
+upstream	https://github.com/alphazero/Go-Redis.git (push)
